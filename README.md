@@ -8,11 +8,9 @@ INSTALLATION
 1. run the "text2video-install.bat" file
 2. run the generate.py file
 3. Enjoy!
-.
-.
-.
-.
-.
+
+
+
 Socials:
 Linkedin : https://www.linkedin.com/in/joshua-roberts-bb167a211/
 Twitter : https://twitter.com/jfx_designs
