@@ -13,11 +13,13 @@ if %download_prompt_answer% == "y" goto :download_large
 if %download_prompt_answer% == "n" goto :download_small
 
 :download_large
+git lfs install
 git clone https://huggingface.co/damo-vilab/text-to-video-ms-1.7b
 goto install
 
 
 :download_small
+git lfs install
 GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/damo-vilab/text-to-video-ms-1.7b
 goto install
 
