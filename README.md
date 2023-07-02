@@ -4,13 +4,13 @@ A singular, user friendly install script for installing all requirements, softwa
 .
 .
 
-INSTALLATION
+# INSTALLATION
 1. Run "Text2Video.py"
 3. Enjoy!
 
 
 
-Socials:
+# Socials:
 
 Linkedin : https://www.linkedin.com/in/joshua-roberts-bb167a211/
 
