@@ -5,8 +5,7 @@ A singular, user friendly install script for installing all requirements, softwa
 .
 
 INSTALLATION
-1. run the "text2video-install.bat" file
-2. run the generate.py file
+1. Run "Text2Video.py"
 3. Enjoy!
 
 
