@@ -2,13 +2,13 @@ import atexit
 import torch
 import subprocess
 import os
-os.system(winget install --id Git.Git -e --source winget)
-os.system(winget install --id=Python.Python.3.10  -e)
-os.system(pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118)
-os.system(git lfs install)
-os.system(git clone https://huggingface.co/damo-vilab/text-to-video-ms-1.7b)
-os.system(pip install diffusers transformers accelerate torch)
-os.system(cls)
+os.system("winget install --id Git.Git -e --source winget")
+os.system("winget install --id=Python.Python.3.10  -e")
+os.system("pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118")
+os.system("git lfs install")
+os.system("git clone https://huggingface.co/damo-vilab/text-to-video-ms-1.7b")
+os.system("pip install diffusers transformers accelerate torch")
+os.system("cls")
 
 def exitfunction():
 	print("---------------------------------------------------------------------------------------------------")	
